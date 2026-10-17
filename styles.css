@@ -23,15 +23,26 @@ sub {
     left:0;
 }
 #short{
-    width: 350px;
+    width: 330px;
     position:absolute;
     bottom:0;
-    left: 76%;
+    left: 78%;
 }
 #peak {
     width: 300px;
     position:absolute;
     bottom:0;
-    left:40%;
+    left:35.6%;
 }
-
+#climber {
+    width:300px;
+    position:absolute;
+    bottom:0;
+    left: 14.4%;
+}
+#celeste {
+    width: 300px;
+    position: absolute;
+    bottom: 0;
+    left: 57%;
+}
