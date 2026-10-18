@@ -6,6 +6,7 @@ body {
      color: white;
      background-size: cover;
 }
+
 /*body {
     background-size: cover;
     height: 100vh;
@@ -16,12 +17,13 @@ sub {
   font-size: xx-small; 
   vertical-align: sub; 
 }
-#angel.fix {
+#angel {
     width: 200px;
     position: absolute;
     bottom: 0;
     left:0;
 }
+
 #short{
     width: 330px;
     position:absolute;
