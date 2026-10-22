@@ -8,7 +8,7 @@ This project took me super long even though it looks relatively simple.
 
 1. I spent ~45 minutes looking for a bug that turned out to be accidently adding a space between . and #
 
-2.I attempted to add code to create a semi-tranparent overlay with text when the mouse hovered over the images, however it kept breaking the website. This took about 2 hours unfortunately and I gave up when I realized I would have to create the div and hover animations for each ingae, so six times (on top of the hours I spent on trying to get one image to work). This to me was not worth it.
+2. I attempted to add code to create a semi-tranparent overlay with text when the mouse hovered over the images, however it kept breaking the website. This took about 2 hours unfortunately and I gave up when I realized I would have to create the div and hover animations for each ingae, so six times (on top of the hours I spent on trying to get one image to work). This to me was not worth it.
 
 Hopefully I'll be able to implement the hover feature in a future website though! I'm still proud of how this website came out.
 
