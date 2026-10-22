@@ -1,7 +1,7 @@
 # mountain
 climbing it
 
-A collection of media which revolve around mountains + a short poem. The Climber, A Short Hike, Peak, Cairin, and Celeste are the media in order of left to right. I really like the poem, and honestly a simpler website helps keep the focus on words and images instead of movement and user interaction.
+A collection of media which revolve around mountains + a short saying (poem?). The Climber, A Short Hike, Peak, Cairin, and Celeste are the media in order of left to right. I really like the poem, and honestly a simpler website helps keep the focus on words and images instead of movement and user interaction.
 
 
 This project took me super long even though it looks relatively simple.
